@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: [Twitter](https://twitter.com/OmkarCodes)
-- ✍️ My blog: [Hashnode](https://omkartech.hashnode.dev)
+- 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
+- ✍️ My blog: [Omkar's Tech blog](https://omkartech.hashnode.dev)
 - 😄 Pronouns: He/Him
 
 
