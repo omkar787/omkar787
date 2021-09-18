@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="" width=25 height=25 >
 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
