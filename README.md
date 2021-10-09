@@ -1,9 +1,10 @@
 # Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hello" width="29px"> I'm Omkar !!
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
 - ✍️ My blog: [Omkar's Tech blog](https://omkartech.hashnode.dev)
 - 😄 Pronouns: He/Him
+- 👊 Tell me an intresting MERN fact 
 
 ## Connect with me here 🤝
 
