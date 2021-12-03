@@ -1,12 +1,13 @@
-# Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hello" width="29px"> I'm Omkar !!
+# Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hello" width="29px"> I'm Omkar!
 
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
 - ✍️ My blog: [Omkar's Tech blog](https://omkartech.hashnode.dev)
 - 😄 Pronouns: He/Him
-- 👊 Tell me an intresting MERN fact 
+- 👊 Tell me an intresting MERN fact
 
 ## Omkar's GitHub Stats
+
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar787&show_icons=true&theme=radical&hide_title=true)
 
 ## Omkar's most used languages on Github
@@ -14,6 +15,7 @@
 ![Omkar's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=omkar787&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true)
 
 ## My skills
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
