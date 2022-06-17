@@ -1,5 +1,10 @@
-# Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hello" width="29px"> I'm Omkar!
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/omkar787/omkar787/ce6706ca2770cef8fc1693472694555fb0c3e320/devcard.svg" width="400" align="right" alt="Omkar Bhoir's Dev Card"/></a>
+# Hello, I'm Omkar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Hello" width="29px" height="29px">
+
+  
+
+  
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
 - ✍️ My blog: [Omkar's Tech blog](https://omkartech.hashnode.dev)
@@ -42,3 +47,5 @@
   
 <a href="https://stackoverflow.com/users/15673077/omkar" alt="omkar">
   <img src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" width="40px" alt="StackOverFlow">
+  
+<br clear="right"/>
