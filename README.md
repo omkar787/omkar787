@@ -1,23 +1,24 @@
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/omkar787/omkar787/ce6706ca2770cef8fc1693472694555fb0c3e320/devcard.svg" width="400" align="right" alt="Omkar Bhoir's Dev Card"/></a>
 # Hello, I'm Omkar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Hello" width="29px" height="29px">
 
-  
-
-  
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
 - ✍️ My blog: [Omkar's Tech blog](https://omkartech.hashnode.dev)
 - 😄 Pronouns: He/Him
 - 👊 Tell me an intresting MERN fact
 
+
 ## Omkar's GitHub Stats
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar787&show_icons=true&theme=radical&hide_title=true)
+<img  src="https://github-readme-stats.vercel.app/api?username=omkar787&show_icons=true&theme=radical&hide_title=true" alt="Omkar's Github stats"/>
+<!-- ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar787&show_icons=true&theme=radical&hide_title=true) -->
 
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/omkar787/omkar787/ce6706ca2770cef8fc1693472694555fb0c3e320/devcard.svg" width="400" align="right" alt="Omkar Bhoir's Dev Card"/></a>
 ## Omkar's most used languages on Github
 
 ![Omkar's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=omkar787&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true)
+
+
 
 ## My skills
 
