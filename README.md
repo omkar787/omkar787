@@ -13,7 +13,7 @@
 <!-- ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar787&show_icons=true&theme=radical&hide_title=true) -->
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/omkar787/omkar787/ce6706ca2770cef8fc1693472694555fb0c3e320/devcard.svg" width="400" align="right" alt="Omkar Bhoir's Dev Card"/></a>
+<a href="https://app.daily.dev/omkar787"><img src="https://github.com/omkar787/omkar787/blob/main/devcard.svg" width="400" align="right" alt="Omkar Bhoir's Dev Card"/></a>
 ## Omkar's most used languages on Github
 
 ![Omkar's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=omkar787&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true)
