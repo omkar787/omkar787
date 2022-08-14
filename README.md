@@ -1,5 +1,7 @@
 # Hello, I'm Omkar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Hello" width="29px" height="29px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar787&label=Profile%20views&color=0e75b6&style=flat" alt="omkar787" /> </p>
+
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
 - ✍️ My blog: [Omkar's Tech blog](https://omkartech.hashnode.dev)
