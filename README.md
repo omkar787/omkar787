@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar787&label=Profile%20views&color=0e75b6&style=flat" alt="omkar787" /> </p>
 
-- 🌱 I’m currently learning MERN Stack
+    I'm currently pursuing BTech CSE-AIML from SPIT.
+
+- 🌱 I’m currently learning FastAPI, React, ML too :)
 - 📫 How to reach me: [@OmkarCodes](https://twitter.com/OmkarCodes)
 - ✍️ My blog: [Omkar's Tech blog](https://omkartech.hashnode.dev)
 - 😄 Pronouns: He/Him
